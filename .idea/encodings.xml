@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Circular.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Polygon.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Ques_Bank.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Ques_Bank.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Rectangle.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Trapezoid.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Trapezoid.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Triangle.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Triangle.h" charset="GBK" />
+  </component>
+</project>
